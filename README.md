@@ -11,9 +11,7 @@ This project is a front-end Disney+ clone built with React, Redux Toolkit, and F
 - Global state management with Redux Toolkit
 - Styled using CSS and Disney-themed assets
 
-## Demo
 
-> Add a link to your deployed app or demo video here if available.
 
 ## Technologies Used
 
